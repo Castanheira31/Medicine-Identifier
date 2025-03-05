@@ -9,10 +9,10 @@ Repositório contendo um modelo de **identificação de medicamentos** utilizand
 ### **2. info.labels**  
 - Arquivo contendo os rótulos das classes de medicamentos utilizadas no treinamento do modelo.  
 
-### **3. training/**  
+### **3. training**  
 - Pasta contendo o dataset utilizado para o **treinamento do modelo**.   
 
-### **4. testing/**  
+### **4. testing**  
 - Pasta com exemplos de imagens utilizadas para **testes e validação** do modelo treinado.    
 
 ---
@@ -28,9 +28,9 @@ Repository containing a **medicine identification model** using **machine learni
 ### **2. info.labels**  
 - File containing the **labels** of the medicine classes used for training.  
 
-### **3. training/**  
+### **3. training**  
 - Folder containing the dataset used for **model training**.  
 
 
-### **4. testing/**  
+### **4. testing**  
 - Folder with sample images used for **testing and validation** of the trained model.    
